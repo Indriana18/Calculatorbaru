@@ -1,0 +1,11 @@
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfo.cs
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.deps.json
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.json
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.dev.json
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+D:\VISUAL\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
